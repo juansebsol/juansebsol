@@ -9,15 +9,15 @@
 </p>
 
 <p align=center>
-  <a href="https://github.com/Terabyte17">
+  <a href="https://github.com/juansebsol">
     <img src="https://badges.pufler.dev/visits/Terabyte17/Terabyte17?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Terabyte17?tab=repositories">
+  <a href="https://github.com/juansebsol?tab=repositories">
     <img src="https://badges.pufler.dev/repos/Terabyte17?style=flat-square&color=black&logo=github">
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/Terabyte17"><img src="https://img.shields.io/github/followers/Terabyte17?style=social"></a>
+<a href="https://github.com/juansebsol"><img src="https://img.shields.io/github/followers/Terabyte17?style=social"></a>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Robotics-brown"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Reinforcement Learning-blue"> 

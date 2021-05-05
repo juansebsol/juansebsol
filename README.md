@@ -5,8 +5,6 @@
 <p align="center">I'm interdisciplinary artist with a Bachelors in Digital Arts and Sciences from the University of Florida (UF). I'm very passionate about blockchain techology and smart contract development, I also have some experience with Unity game development as well as Andorid Studio app development. 
 </p>
 
-<p align="center">When I'm not developing and coding, you can find me watching Netflix, Sports or listening to music. Playing football :soccer: was also on that list, but quarantine has removed that for now 😢. Memes are something that are appreciated very much 😂. </p>
-
 <p align="center"><a href="https://twitter.com/terabyte_17"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/yash-sahijwani-b36aa3149/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/yash_sahijwani/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
 

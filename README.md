@@ -2,7 +2,7 @@
  <img  width="800" height="400" src="https://github.com/Terabyte17/Terabyte17/blob/master/social/yashs.gif">
 </p>
 <h2 align="center">Hello there! My name is Juan Sebastian Solano. 👋</h2>
-<p align="center">I'm currently a student pursuing my Bachelor of Technology in Electronics Engineering from IIT (BHU), Varanasi :student:. I'm passionate about areas of machine learning like deep learning and reinforcement learning:man_technologist:. You can also find me interested in robotics :robot: and how we can use deep learning to automate these robots. I've started exploring the field of electronics as well ✨ and hope to contribute to that field as well. 
+<p align="center">I'm interdisciplinary artist with a Bachelors in Digital Arts and Sciences from the University of Florida (UF). I'm very passionate about blockchain techology and smart contract development, I also have some experience with Unity game development as well as Andorid Studio app development. 
 </p>
 
 <p align="center">When I'm not developing and coding, you can find me watching Netflix, Sports or listening to music. Playing football :soccer: was also on that list, but quarantine has removed that for now 😢. Memes are something that are appreciated very much 😂. </p>

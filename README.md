@@ -5,7 +5,7 @@
 <p align="center">I'm interdisciplinary artist with a Bachelors in Digital Arts and Sciences from the University of Florida (UF). I'm very passionate about blockchain techology and smart contract development, I also have some experience with Unity game development as well as Andorid Studio app development. 
 </p>
 
-<p align="center"><a href="https://www.linkedin.com/in/juansebastiansolano/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/yash_sahijwani/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+<p align="center"><a href="https://www.linkedin.com/in/juansebastiansolano/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> 
 </p>
 
 <p align=center>

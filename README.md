@@ -1,6 +1,3 @@
-<p align="center">
- <img  width="1500" height="325" src="">
-</p>
 <h2 align="center">Hello there! My name is Juan Sebastian Solano. 👋</h2>
 <p align="center">I'm interdisciplinary artist with a Bachelors in Digital Arts and Sciences from the University of Florida (UF). I'm very passionate about blockchain techology and smart contract development, I also have some experience with Unity game development as well as Andorid Studio app development. 
 </p>

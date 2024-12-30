@@ -5,14 +5,7 @@
 <p align="center"><a href="https://www.linkedin.com/in/juansebastiansolano/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> 
 </p>
 
-<p align=center>
-  <a href="https://github.com/juansebsol">
-    <img src="https://badges.pufler.dev/visits/juansebsol/juansebsol?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/juansebsol?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/juansebsol?style=flat-square&color=black&logo=github">
-  </a>
-</p>
+
 <p align="center">
 <a href="https://github.com/juansebsol"><img src="https://img.shields.io/github/followers/juansebsol?style=social"></a>
 </p>

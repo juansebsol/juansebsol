@@ -1,5 +1,5 @@
 <h2 align="center">Hello there! My name is Juan Sebastian Solano. 👋</h2>
-<p align="center">I'm interdisciplinary artist with a Bachelors in Digital Arts and Sciences from the University of Florida (UF). I'm very passionate about blockchain techology and smart contract development, I also have some experience with Unity game development as well as Andorid Studio app development. 
+<p align="center">University of Florida graduate with a background in Digital Arts and Sciences. Working at the intersection of blockchain, AI, and automation—crafting experiences where technology and creativity converge. 
 </p>
 
 <p align="center"><a href="https://www.linkedin.com/in/juansebastiansolano/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> 

@@ -1,4 +1,4 @@
-<h2 align="center">Hello there! My name is Juan Sebastian Solano. 👋</h2>
+<h2 align="center">Hello there! My name is Sebastian Solano. 👋</h2>
 <p align="center">University of Florida graduate with a background in Digital Arts and Sciences. Working at the intersection of blockchain, AI, and automation, crafting experiences where technology and creativity converge. 
 </p>
 

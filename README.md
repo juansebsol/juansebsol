@@ -1,25 +1,16 @@
-<h1 align="center">Sebastian Solano</h1>
+
+<h2 align="center">Sebastian Solano</h2>
 
 <p align="center">
-Developer & technical founder working across <strong>Solana, DePIN, automation, data systems, and real-world infrastructure</strong>.
+  Developer & technical founder building across <b>Solana, DePIN, automation, and infrastructure.</b>
 </p>
 
 <p align="center">
-I've helped build infrastructure for networks reaching <strong>35M+ users</strong>, staking systems with <strong>$1M+ TVL</strong>, and products used by thousands of deployers.
+  Contributed to infrastructure supporting <b>35M+ users</b>, staking systems with <b>$1M+ TVL</b>, and tools used by thousands of deployers. Passionate about open source and building useful software.
 </p>
 
 <p align="center">
-I enjoy building and contributing to <strong>open-source projects</strong>, especially tools around infrastructure, automation, blockchain, and developer workflows.
+  <a href="https://www.sebastiansol.com">Website</a> ·
+  <a href="https://www.linkedin.com/in/juansebastiansolano/">LinkedIn</a> ·
+  <a href="https://github.com/juansebsol">GitHub</a>
 </p>
-
-<p align="center">
-Currently building at the intersection of software and physical infrastructure.
-</p>
-
-<p align="center">
-<a href="https://www.sebastiansol.com">Website</a> ·
-<a href="https://www.linkedin.com/in/juansebastiansolano/">LinkedIn</a> ·
-<a href="https://github.com/juansebsol">@juansebsol</a>
-</p>
-
-<hr>
